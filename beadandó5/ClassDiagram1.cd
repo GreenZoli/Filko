@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="beadandó5.Játékos">
+    <Position X="12.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEBAACAAAAQgAAAGAAgAAAAAAAAAgAICAIACAAA=</HashCode>
+      <FileName>Játékos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="beadandó5.Játszma">
+    <Position X="5.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACDAEAAgABAAACAAAgAAAiAQAAIIAADCIYhBEACI4A=</HashCode>
+      <FileName>Játszma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="beadandó5.Lap">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAKAAAACgA=</HashCode>
+      <FileName>Lap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="beadandó5.Pakli">
+    <Position X="8.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAAEAAAABAAAAAAACAAAAQAAAAEAAACAABQgACAEA=</HashCode>
+      <FileName>Pakli.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="beadandó5.Program">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="beadandó5.Érték">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEABAAAAIAAAAAAAAAAAAAAgAAAAAAAQAAAAAQgA=</HashCode>
+      <FileName>Játszma.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="beadandó5.Szín">
+    <Position X="1.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAEAAAAAAEAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Játszma.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

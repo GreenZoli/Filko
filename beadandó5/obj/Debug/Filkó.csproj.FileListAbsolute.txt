@@ -1,0 +1,18 @@
+G:\Prog\beadandó\beadandó7\beadandó5\beadandó5\bin\Debug\beadandó5.exe.config
+G:\Prog\beadandó\beadandó7\beadandó5\beadandó5\bin\Debug\beadandó5.exe
+G:\Prog\beadandó\beadandó7\beadandó5\beadandó5\bin\Debug\beadandó5.pdb
+G:\Prog\beadandó\beadandó7\beadandó5\beadandó5\obj\Debug\beadandó5.exe
+G:\Prog\beadandó\beadandó7\beadandó5\beadandó5\obj\Debug\beadandó5.pdb
+G:\Prog\beadandó\beadandó7\beadandó5\beadandó5\obj\Debug\Filkó.csprojResolveAssemblyReference.cache
+G:\Prog\beadandó\beadandó7\Filkó Kártyajáték\beadandó5\bin\Debug\beadandó5.exe.config
+G:\Prog\beadandó\beadandó7\Filkó Kártyajáték\beadandó5\obj\Debug\beadandó5.exe
+G:\Prog\beadandó\beadandó7\Filkó Kártyajáték\beadandó5\obj\Debug\beadandó5.pdb
+G:\Prog\beadandó\beadandó7\Filkó Kártyajáték\beadandó5\bin\Debug\beadandó5.exe
+G:\Prog\beadandó\beadandó7\Filkó Kártyajáték\beadandó5\bin\Debug\beadandó5.pdb
+G:\Prog\beadandó\beadandó7\Filkó Kártyajáték\beadandó5\obj\Debug\Filkó.csprojResolveAssemblyReference.cache
+D:\pendrive\Prog\beadandó\beadandó7\Filkó Kártyajáték\beadandó5\bin\Debug\beadandó5.exe.config
+D:\pendrive\Prog\beadandó\beadandó7\Filkó Kártyajáték\beadandó5\obj\Debug\beadandó5.exe
+D:\pendrive\Prog\beadandó\beadandó7\Filkó Kártyajáték\beadandó5\obj\Debug\beadandó5.pdb
+D:\pendrive\Prog\beadandó\beadandó7\Filkó Kártyajáték\beadandó5\bin\Debug\beadandó5.exe
+D:\pendrive\Prog\beadandó\beadandó7\Filkó Kártyajáték\beadandó5\bin\Debug\beadandó5.pdb
+D:\pendrive\Prog\beadandó\beadandó7\Filkó Kártyajáték\beadandó5\obj\Debug\Filkó.csprojResolveAssemblyReference.cache
