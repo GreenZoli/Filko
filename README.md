@@ -1,2 +1,2 @@
 # Filko
-# A leírás PDF fájlban szerepel a feladat amire a program készült. 
+# A PDF fájlban szerepel a feladat amire a program készült. 
